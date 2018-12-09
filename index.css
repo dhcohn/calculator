@@ -5,18 +5,18 @@
 
 div.container {
     top: 100px;
-    height:400px; 
+    height:600px; 
     width:400px;
     text-align: center;
     position: relative;
-    background-color: antiquewhite;
+    background-color: rebeccapurple;
     padding-top: 40px;
 }
 
 div.solution-box {
-    width: 100px;
+    width: 300px;
     height: 35px;
-    border: 1px solid red;
+    border: 3px solid red;
 }
 
 button {
